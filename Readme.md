@@ -1,10 +1,10 @@
-# 🚀 Backend Intern Prep: Hành Trình Luyện Cốt Trở Thành Cloud Engineer
+# 🚀 Backend Intern Prep: Hành Trình Luyện Code Trở Thành Cloud Engineer
 
 Chào mọi người, mình là **Tiến Đạt** (Sinh viên K24 - Đại học CNTT, ĐHQG-HCM - UIT). 
 Đây là kho lưu trữ nhật ký tự học và rèn luyện kỹ năng lập trình của mình, hướng tới mục tiêu thực tập vị trí **Python Backend Developer** và chặng đường xa hơn là **DevOps / Cloud Engineer**.
 
 ## 🎯 Mục tiêu & Triết lý học tập
-Thay vì vội vàng nhảy vào sử dụng các Framework (như FastAPI hay Django) để ra sản phẩm nhanh, mình chọn chiến dịch **"30 Ngày Luyện Cốt"** (Mỗi ngày giải quyết tối thiểu 5 bài toán thực tế). 
+Thay vì vội vàng nhảy vào sử dụng các Framework (như FastAPI hay Django) để ra sản phẩm nhanh, mình chọn chiến dịch **"30 Ngày Luyện Code"** (Mỗi ngày giải quyết tối thiểu 5 bài toán thực tế). 
 
 Triết lý của mình là: **"Nắm thật vững cốt lõi ngôn ngữ, Cấu trúc dữ liệu và tư duy OOP trước khi để Framework làm thay mọi thứ"**.
 
