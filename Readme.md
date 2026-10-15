@@ -26,3 +26,5 @@ backend-intern-prep/
 ├── day_03_oop/               # OOP Core: Khởi tạo, Tương tác, Kế thừa
 ├── practice_day_01/          # Thực hành tổng hợp 5 kịch bản Backend
 └── practice_day_02/          # Xử lý Log, Lọc dữ liệu nâng cao, Bắt lỗi (Try..Except)
+└── practice_day_03/          # Bóc tách chuỗi (Split), Phân tích JSON/API, Thuật toán Thống kê và Xây dựng hệ thống Monitor (OOP).
+
