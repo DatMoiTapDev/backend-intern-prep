@@ -1,0 +1,4 @@
+import re
+van_ban = "Liên hệ dev@gmail.com hoặc admin@uit.edu.vn để biết thêm"
+danh_sach_email = re.findall(r"[a-zA-Z0-9._]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}", van_ban)
+print(danh_sach_email)
