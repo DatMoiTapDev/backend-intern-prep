@@ -1,0 +1,15 @@
+[2026-10-20 22:05:27.554598] Server Database-Main đang OFFLINE
+[2026-10-20 22:05:27.555322] Server Redis-Cache RAM quá thấp (1GB)
+[2026-10-20 22:06:02.152676] Server Database-Main đang OFFLINE
+[2026-10-20 22:06:02.152934] Server Redis-Cache RAM quá thấp (1GB)
+[2026-10-20 22:10:06.205556] Server Database-Main đang OFFLINE
+[2026-10-20 22:10:06.206227] Server Redis-Cache RAM quá thấp (1GB)
+[2026-10-20 22:11:39.803196] Server Database-Main đang OFFLINE
+[2026-10-20 22:11:39.803920] Server Redis-Cache RAM quá thấp (1GB)
+[2026-10-20 22:11:39.804341] Server Server-Loi có dữ liệu RAM không hợp lệ
+[2026-10-20 22:11:52.526492] Server Database-Main đang OFFLINE
+[2026-10-20 22:11:52.527143] Server Redis-Cache RAM quá thấp (1GB)
+[2026-10-20 22:11:52.528234] Server Server-Loi có dữ liệu RAM không hợp lệ
+[2026-10-20 22:11:55.521756] Server Database-Main đang OFFLINE
+[2026-10-20 22:11:55.522088] Server Redis-Cache RAM quá thấp (1GB)
+[2026-10-20 22:11:55.522416] Server Server-Loi có dữ liệu RAM không hợp lệ

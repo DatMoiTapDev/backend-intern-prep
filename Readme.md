@@ -30,3 +30,4 @@ backend-intern-prep/
 └── practice_day_04/              # Thao tác Đọc/Ghi File, Xử lý Thời gian (Datetime), List Comprehension và Tham số mặc định.
 └── practice_day_05/              # Biến môi trường (`os`), Chuẩn hóa JSON (`json`), Cài đặt thư viện ngoài (`pip`) và Gọi API thực tế (`requests`).
 └── practice_day_06/              # Type Hinting (Nền tảng FastAPI), Dataclasses (OOP hiện đại) và Regular Expression (Regex - Bóc tách Log).
+└── practice_day_07(Mini Project)/              # Xây dựng Hệ thống Quản lý Giám sát Server (OOP, File I/O, Error Handling, Datetime).
